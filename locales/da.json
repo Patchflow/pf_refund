@@ -9,6 +9,7 @@
     "partial_claim": "Nogle genstande kunne ikke være i din inventar. De er gemt til senere.",
     "no_pending": "Ingen afventende refund fundet for denne kode",
     "code_expired": "Denne refund kode er udløbet",
+    "admin_title": "PatchFlow Refund",
     "search_placeholder": "Søg genstande...",
     "create_refund": "Opret Refund",
     "cart_title": "Kurv",

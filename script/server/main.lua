@@ -5,8 +5,6 @@ local Logger = lib.require("script.server.modules.logger")
 ---@type Config
 local Config = lib.require("script.shared.config.main")
 
-lib.versionCheck("Patchflow/pf_refund")
-
 MySQL.ready(function()
   MySQL.query([[
     CREATE TABLE IF NOT EXISTS `pf_refunds` (

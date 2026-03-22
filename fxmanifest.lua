@@ -28,8 +28,8 @@ files {
   "web/dist/**/*",
 }
 
-ui_page "web/dist/index.html"
---[[ ui_page "http://localhost:3000/" ]]
+--[[ ui_page "web/dist/index.html" ]]
+ui_page "http://localhost:3000/"
 
 ox_libs {
   "locale"

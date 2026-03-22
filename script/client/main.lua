@@ -38,14 +38,6 @@ RegisterNUICallback("CLOSE_NUI", function(_, cb)
   cb({})
 end)
 
-RegisterNUICallback("COPY_TO_CLIPBOARD", function(data, cb)
-  SetNuiFocus(false, true)
-  Wait(50)
-  lib.setClipboard(data.text)
-  Wait(50)
-  SetNuiFocus(true, true)
-  cb(1)
-end)
 
 ---@param data CreateRefundData
 ---@param cb fun(result: string | false)

@@ -36,13 +36,3 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 /docs
 /.claude
-/web/src
-web/biome.jsonc
-web/bun.lock
-web/index.html
-web/package.json
-web/postcss.config.mjs
-web/tsconfig.app.json
-web/tsconfig.json
-web/tsconfig.node.json
-web/vite.config.ts

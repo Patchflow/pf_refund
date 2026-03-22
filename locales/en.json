@@ -9,6 +9,7 @@
     "partial_claim": "Some items could not fit in your inventory. They have been saved for later.",
     "no_pending": "No pending refund found for this code",
     "code_expired": "This refund code has expired",
+    "admin_title": "PatchFlow Refund",
     "search_placeholder": "Search items...",
     "create_refund": "Create Refund",
     "cart_title": "Cart",
